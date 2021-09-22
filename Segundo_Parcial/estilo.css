@@ -1,0 +1,36 @@
+.container {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 50%;
+    height: 75%;   
+}
+
+.titulo {
+    text-align: center;
+	margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-weight: normal;
+	font-family: 'Ultra', sans-serif;   
+	font-size: 36px;
+	line-height: 42px;
+	text-transform: uppercase;
+	text-shadow: 0 2px white, 0 3px #777;
+}
+
+
+#tabla1 {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tabla1 th {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+.tbl_formato {
+    color: aquamarine;
+    border: 5px;
+}
